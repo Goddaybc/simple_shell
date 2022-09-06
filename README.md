@@ -1,3 +1,4 @@
+This is a README file for the simple shell project
 List of allowed functions and system calls
 access (man 2 access)
 chdir (man 2 chdir)
