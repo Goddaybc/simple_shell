@@ -1,4 +1,4 @@
-#ifndef 
+#ifndef HELPERS_H
 #define HELPERS_H
 
 /* Prompt to be printed */
