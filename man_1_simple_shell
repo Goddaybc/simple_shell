@@ -1,5 +1,4 @@
 .TH SHELLBY 1 "August 2022" "ALX School" "0x16. C - Simple Shell"
-REMOVE THIS SECOND LINE
 .SH NAME
 .B shellby\fR \- simple UNIX command interpreter
 .SH SYNOPSIS
